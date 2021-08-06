@@ -1,0 +1,97 @@
+p1 {
+    background-color: black;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    color: deeppink;
+}
+h1 {  
+    font-family: 'Open Sans', sans-serif;;
+     background-color: #b93c3c;
+     color: white;
+    font-size: 15px;
+}
+h2 {
+    font-family: 'Open Sans', sans-serif;;
+     background-color: #b93c3c;
+     color: white;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+    
+}
+body {
+   background-image: url("Assets/wco.jpg"); ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+table {
+    background-color: black;
+}
+footer {
+background-color: #caab98;
+ opacity: 0.9;
+margin-top:auto;
+margin-left: auto;
+margin-right: auto;
+    
+}
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+      background-color: #b93c3c;
+      color: white;
+    }
+
+.jumbotron{
+    background-color:   #caab98;
+    opacity: 0.9;
+    text-align: center;
+    color: white ; 
+    font-size: 10px;
+}
+
+.marqee{
+     -webkit-marquee: <auto> <medium> <infinite> <scroll> <normal>;
+    overflow-x: -webkit-marquee;
+    opacity: 1;
+}
+
+.dropdown{
+    color: white;   
+}
+
+.nav navbar-nav .navbar-right > li > a{
+    color: white;
+}
+
+.u1{
+    color:white;
+}
+
+.navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.myCarousel{
+    background-color: black;
+    
+}
+
+.item img {
+  max-height: 300px;
+    min-height: 300px;
+    max-width: 350px;
+    min-width: 350px;
+}
+    
+    
